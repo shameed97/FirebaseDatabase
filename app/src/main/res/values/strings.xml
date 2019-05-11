@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">FirebaseDatabase</string>
+    <string name="heading_will_appear_here">Heading Will Appear Here...!</string>
+    <string name="enter_your_heading">Enter Your Heading..</string>
+    <string name="submit">Submit</string>
+    <string name="select_your_font">Select Your Font :</string>
+    <string name="red">RED</string>
+    <string name="blue">BLUE</string>
+</resources>
